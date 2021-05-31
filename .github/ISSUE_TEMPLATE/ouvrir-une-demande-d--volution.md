@@ -1,6 +1,6 @@
 ---
 name: Ouvrir une demande d'évolution
-about: Suggérer une nouvelle fonctionnalité pour notre solution
+about: Suggérez une nouvelle fonctionnalité pour notre solution
 title: "[FEATURE]"
 labels: enhancement
 assignees: cverons
