@@ -1,4 +1,4 @@
-# Objet de ce repository
+# Gestionnaire de tickets pour GDI
 
 Ce repository permet à tous les utilisateurs de GDI de pouvoir remonter et suivre les anomalies rencontrées.
 
