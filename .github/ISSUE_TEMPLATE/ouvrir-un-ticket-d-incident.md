@@ -12,7 +12,7 @@ Une description claire et précise de l'incident.
 
 **Comment le reproduire ?**
 Les étapes pour reproduire l'incident :
-1. Aller à '...'
+1. Aller à '...' (METTRE L'URL DE LA PAGE)
 2. Cliquer sur '....'
 3. Utiliser l'ascenseur jusqu'à '....'
 4. Observer l'erreur
@@ -21,7 +21,7 @@ Les étapes pour reproduire l'incident :
 Une description claire et précise du comportement auquel vous vous attendiez.
 
 **Copies écran**
-Si possible, ajoutez des copies écran pour nous aider à identifier l'incident.
+Si possible, ajoutez des copies écran pour nous aider à identifier l'incident EN GARDANT TOUTE LA FENETRE, INCLUANT L'URL DANS LA BARRE.
 
 **Ordinateur de bureau (veuillez compléter les informations suivantes) :**
  - OS: [i.e. iOS]
